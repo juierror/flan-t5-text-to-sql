@@ -10,7 +10,7 @@ pip3 install -r requirements.txt
 ```
 
 ## Training
-Please rub through the `flan-t5-text2sql.ipynb` code.
+Please run through the `flan-t5-text2sql.ipynb` code.
 
 ## Reference
 - [huggingface](https://huggingface.co/docs/transformers/model_doc/flan-t5)
